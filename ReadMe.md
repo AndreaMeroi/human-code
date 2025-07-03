@@ -1,0 +1,127 @@
+#steps:
+
+-leggo l'elenco delle pizze 
+ - mi alzo dal mio desk e mi dirigo verso il cassetto che contiene il volantino della pizzeria 
+ - apro il cassetto  
+ - cerco il volantino 
+ - SE lo trovo:
+   - leggo le opzioni disponibili 
+ - ALTRIMENTI 
+   - prendo lo smartphone per cercarlo sul sito della pizzeria
+   - leggo le opzioni disponibili
+
+-scelgo la pizza da ordinare 
+ - cerco di capire se ho davvero voglia di provare qualcosa di nuovo
+   - SE sono certo di averne voglia:
+    - cerco un'opzione che mi colpisca
+    - leggo gli ingredienti 
+   - ALTRIMENTI:
+    - decido di ordinare la classica prosciutto e funghi 
+ - prendo la decisione 
+  
+-ordino la pizza
+  - metto la mano nella tasca in cui è contenuto lo smartphone
+  - accedo al sito della pizzeria
+  - seleziono la pizza che desidero 
+  - completo l'ordine
+  - seleziono l'opzione delivery 
+  - completo il pagamento 
+  - SE la carta è già salvata come metodo di pagamento:
+    - confermo il pagamento con il face Id
+  - ALTRIMENTI 
+    - metto la mano nella tasca posteriore per accedere al portafogli 
+    - estraggo la carta 
+    - la leggo
+    - inserisco i dati nel form per il pagamento del sito
+    - confermo il pagamento con il face Id 
+
+-attendo che la pizza arrivi 
+  - mi dirigo verso il divano 
+  - mi siedo sul divano
+  - cerco il telecomando
+  - SE lo trovo:
+    - accendo la TV 
+  - ALTRIMENTI:
+    - lo cerco con lo sguardo nella stanza
+    - SE identifico dove si trova: 
+     - mi alzo e mi dirigo verso il telecomando 
+      - lo prendo 
+      - mi dirigo verso il divano 
+      - mi siedo 
+      - accendo la tv 
+      - attendo che il rider suoni il campanello 
+     - ALTRIMENTI:
+      - mi lamento 
+      - penso ad un'alternativa per svagarmi nell'attesa
+        - SE ho voglia di musica:
+         - metto un disco 
+        - ALTRIMENTI:
+         - cerco qualcosa da leggere 
+  -  sento suonare il campanello
+
+-ritiro la pizza
+  - mi alzo dal divano 
+  - mi dirigo verso il citofono 
+  - rispondo
+  - SE è il rider:
+    - apro il portone
+    - esco di casa
+    - scendo le scale fino all'ingresso 
+    - apro la porta 
+    - ringrazio il rider 
+    - ritiro la pizza
+  - ALTRIMENTI: 
+    - chiedo chi è 
+    - mi informa sull'esigenza della persona che ha suonato il campanello 
+  - salgo le scale 
+  - entro in casa 
+
+-mi preparo per mangiare 
+  - mi dirigo in cucina
+  - prendo le posate 
+  - mi dirigo verso il frigo 
+  - lo apro 
+  - cerco una birra 
+  - SE è nel frigo:
+    - la prendo 
+    - la apro 
+    - l'appoggio sul tavolino davanti al divano 
+  - ALTRIMENTI:
+    - prendo una bottiglia d'acqua 
+  - mi dirigo verso il divano 
+  - mi siedo sul divano 
+  - appoggio il cartone della pizza, la birra e le posate sul tavolino 
+  - apro il cartone della pizza
+
+
+-mangio la pizza
+  - prendo forchetta e coltello 
+  - taglio la pizza a spicchi 
+  - ne prendo uno in mano 
+  - lo avvicino alla bocca
+  - SE è di una temperatura accettabile:
+    - lo mordo 
+  - ALTRIMENTI: 
+    - soffio sulla fetta di pizza
+    - attendo qualche secondo 
+    - mordo la pizza
+  - mastico la pizza
+  - la deglutisco 
+  - ripeto questa azione finchè sono sazio
+    - SE sono sazio e la pizza è finita:
+      - mi rilasso sul divano per un tempo indeterminato 
+      - getto il cartone della pizza nell'immondizio 
+      - metto le posate nella lavastoviglie
+      - termino di bere la birra 
+    - ALTRIMENTI:
+      - mi alzo dal divano
+      - mi dirigo in cucina
+      - apro lo scompartimento dei contenitori
+      - prendo un contenitore
+      - torno al tavolino in salotto 
+      - metto la pizza nel contenitore 
+      - mi dirigo in cucina
+      - apro il frio 
+      - inserisco la pizza
+      - chiudo il frigo 
+  
