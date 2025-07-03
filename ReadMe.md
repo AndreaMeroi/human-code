@@ -124,4 +124,7 @@
       - apro il frio 
       - inserisco la pizza
       - chiudo il frigo 
+      - mi dirigo verso il divano 
+      - mi siedo 
+      
   
