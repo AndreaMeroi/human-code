@@ -1,5 +1,7 @@
 // alert("Hello World!")
 
+alert('hello world')
+
 //writln ('hello world')
 
 
